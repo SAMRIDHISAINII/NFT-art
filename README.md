@@ -1,2 +1,1 @@
 # nft-art
-# nft-art
